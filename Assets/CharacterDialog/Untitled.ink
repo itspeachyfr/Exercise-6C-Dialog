@@ -1,13 +1,13 @@
-Hello, Brave Adventurer! I have a quest!
+Hello, Welcome to Bad Evil Coffee house
 -> choices 
 
 == choices ==
- * Okay, first, what's your favorite color?
-  --- Its red. 
+ * Okay, first, what's your favorite Coffee?
+  --- Its a Chai. 
   -> choices 
-  *Okay now tell me the quest. 
-   - - - Kill Ten Rats 
+  *Okay now can i order a drink?. 
+   - - - No, chai is gross and I hate you. 
    
    
-   - Come find me when you've completed the quest. 
+   - I'm going to have to ask you to leave. 
    -> END
